@@ -4,8 +4,7 @@
   git --version
 ```
 
-3. Explore Git help
-
+2. Explore Git help
 ```
 git 
 ```
@@ -15,4 +14,5 @@ git help \<command\>
 ```
 git <command> -h 
 ```
-3. 
+
+3. Configuring your username/email address
