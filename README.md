@@ -6,7 +6,7 @@
 
 > **01 - Getting Started** (Configuring username/email/editor + help command)
 
-> **02 - Creating Local Repo** (...)
+> **02 - Creating Local Repo** (Initialize an empty local git repo)
 
 > **03 - Commit to a Local Repo** (...)
 
