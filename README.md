@@ -2,30 +2,42 @@
 
 ## Contents
 
-> **00 - Most Used** (Some of my most used commands day to day)
+**00 - Most Used** 
 
-> **01 - Getting Started** (Configuring username/email/editor + help command)
+- Some of my most used commands day to day
 
-> **02 - Creating Local Repo** (Initialize an empty local git repo)
+**01 - Getting Started** 
 
-> **03 - Commit to a Local Repo** (...)
+- Configuring username/email/editor ```git config```,
+- help command ```git help```
 
-> **04 - Push to Remote Repo** (...)
+**02 - Creating Local Repo** 
 
-> **05 - Tagging Commits** (...)
+- Initialize an empty local git repo ```git init```
 
-> **06 - Branches** (...)
+**03 - Commit to a Local Repo** 
 
-> **07 - Merging** (...)
+- File status ```git status```,
+- staging files ```git add```,
+- committing ```git commit```,
+- viewing commit history ```git log```
 
-> **08 - Resolving Merge Conflicts** (...)
+**04 - Push to Remote Repo** (...)
 
-> **09 - Tracking Branches** (...)
+**05 - Tagging Commits** (...)
 
-> **10 - Fetch/Pull/Push** (...)
+**06 - Branches** (...)
 
-> **11 - Rebasing** (...)
+**07 - Merging** (...)
 
-> **12 - Rewriting History** (...)
+**08 - Resolving Merge Conflicts** (...)
 
-> **13 - Pull Requests** (...)
+**09 - Tracking Branches** (...)
+
+**10 - Fetch/Pull/Push** (...)
+
+**11 - Rebasing** (...)
+
+**12 - Rewriting History** (...)
+
+**13 - Pull Requests** (...)
