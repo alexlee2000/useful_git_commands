@@ -7,7 +7,7 @@ $ git --version
 2. Explore Git help
 ```
 $ git  
-$ git help \<command\>
+$ git help <command>
 $ git <command> -h 
 ```
 
