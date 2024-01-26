@@ -14,5 +14,4 @@ $ git commit -m "Add FileB.txt"
 ```
 $ git push -u origin master
 $ git status
-$ 
 ```
