@@ -4,6 +4,8 @@
 git branch featureA
 git checkout featureA
 ```
+![image](https://github.com/alexlee2000/useful_git_commands/assets/43845085/bead4f96-bd41-42c4-8e8f-ad1a1042c5b9)
+
 
 2. **Checkout** an old commit (use git log to check that you are on the correct branch and HEAD --> featureA. Or you can do git branch to see which branch you are on) 
 ```
