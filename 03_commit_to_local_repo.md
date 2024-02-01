@@ -1,4 +1,6 @@
 # 3. Committing to a Local Repo
+![image](https://github.com/alexlee2000/useful_git_commands/assets/43845085/65f41dde-f5fe-4f9c-a891-fbf6b0924dc5)
+
 1. Create an empty file in your git repo
 ```
 $ touch fileA.txt
