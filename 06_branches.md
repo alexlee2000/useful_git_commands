@@ -11,7 +11,7 @@ git log --oneline --graph --all
 git checkout HEAD~
 ```
 
-3. **Delete** a Branch (-d might prompt you to confirm if the branch has not been merged. If you are happy to delete, then do -D)
+3. **Delete** a Branch (```-d``` might prompt you to confirm if the branch has not been merged. If you are happy to delete, then do ```-D```)
 ```
 git branch -d featureA
 git branch -D featureA
