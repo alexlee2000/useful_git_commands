@@ -21,6 +21,11 @@ git add <filepath>
 git add --all
 ```
 
+Unstaging files that you don't want to commit
+```
+git restore --staged <file-to-unstage.txt>
+```
+
 Committing changes locally
 ```
 git commit -m "..."
@@ -43,7 +48,6 @@ git merge colleague_branch
 ```
 
 # Case: Merging Branches with Colleagues
-
 I have been working on a branch called ```AL_dev```. A colleague of mine (CF) has also made some changes to his branch ```CF_dev``` since we last merged. Before I submit a Pull Request (PR) into the master branch, I generally want to checkout ```CF_dev``` and use ```git status``` to see if there are any modifications CF has made that I can pull in before submitting the PR to master. If it says that the branch is up to date, then you can safely continue to push your changes to the remote repo and then submit a PR accordingly. 
 
 On the other hand, if there has been commits to ```CF_dev``` since the last time that we merged, then the terminal will let you know by how many commits you are behind. Simply do ```git pull``` to pull in the modifications that CF has made. After that, you can ```git checkout AL_dev``` and then merge in CF's changes to your branch by doing ```git merge CF_dev```. In the case that you are both working on the same files, there may be some merge conflicts which will result in a failed merge. No problems. The terminal should indicate to you which files the merge failed on. Go to those files and look for something like:
