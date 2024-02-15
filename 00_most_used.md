@@ -1,6 +1,6 @@
 # 0. Most Used Git Commands (WIP)
 
-List branches in the repo, or create a new branch
+List branches in the repo, or create a new branch, or see what branch you are on
 ```
 git branch
 ```
