@@ -26,19 +26,31 @@
 
 - push to remote repo ```git push```
 
-**05 - Tagging Commits** (...)
+**05 - Tagging Commits**
 
 - View commits ```git log --oneline```
 - View references ```git show```
 - Tag a commit ```git tag``` 
 
-**06 - Branches** (...)
+**06 - Branches**
 
-**07 - Merging** (...)
+- Create/View branches ```git branch```
+- Change to a specific branch or commit ```git checkout```
+- View local history of HEAD references ```git reflog```
 
-**08 - Tracking Branches** (...)
+**07 - Merging**
 
-**09 - Fetch/Pull/Push** (...)
+- Merge ```git merge```
+
+**08 - Tracking Branches**
+
+- View local and tracking branch names ```git branch --all```
+
+**09 - Fetch/Pull/Push**
+
+- Update Git tracking ```git fetch```
+- Pull in from Remote Repo ```git pull```
+- Push to Remote Repo ```git push```
 
 **10 - Rebasing** (...)
 
