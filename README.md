@@ -23,6 +23,7 @@
 - viewing commit history ```git log```
 
 **04 - Push to Remote Repo** (...)
+- push to remote repo ```git push```
 
 **05 - Tagging Commits** (...)
 
