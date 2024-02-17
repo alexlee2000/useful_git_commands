@@ -13,4 +13,10 @@ git merge --no-ff featureX
 ```
 ![image](https://github.com/alexlee2000/useful_git_commands/assets/43845085/43be1c95-2540-4cbc-961a-7c50d21a6421)
 
+# 7.1. Resolving Merge Conflicts
+1. In the case that there is a merge conflict, you can abort the merge process if you don't want to fix the conflict right now. 
+```
+git merge --abort
+```
 
+2. Or, you can fix the conflict and contiune the merge by modifying the conflicted files directly. Remove the conflict markers and make adjustments where necessary. 
