@@ -22,10 +22,15 @@
 - committing ```git commit```,
 - viewing commit history ```git log```
 
-**04 - Push to Remote Repo** (...)
+**04 - Push to Remote Repo**
+
 - push to remote repo ```git push```
 
 **05 - Tagging Commits** (...)
+
+- View commits ```git log --oneline```
+- View references ```git show```
+- Tag a commit ```git tag``` 
 
 **06 - Branches** (...)
 
