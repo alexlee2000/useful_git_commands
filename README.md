@@ -30,14 +30,12 @@
 
 **07 - Merging** (...)
 
-**08 - Resolving Merge Conflicts** (...)
+**08 - Tracking Branches** (...)
 
-**09 - Tracking Branches** (...)
+**09 - Fetch/Pull/Push** (...)
 
-**10 - Fetch/Pull/Push** (...)
+**10 - Rebasing** (...)
 
-**11 - Rebasing** (...)
+**11 - Rewriting History** (...)
 
-**12 - Rewriting History** (...)
-
-**13 - Pull Requests** (...)
+**12 - Pull Requests** (...)
