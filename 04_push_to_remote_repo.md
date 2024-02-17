@@ -1,7 +1,7 @@
 # 4. Push to Remote Repo
 ![image](https://github.com/alexlee2000/useful_git_commands/assets/43845085/1c96eaef-052c-4ebc-ac88-34a87259cf58)
 
-1. **Clone** a Bitbucket repository
+1. **Clone** a Bitbucket repository (Only needs to be done once)
 ```
 $ git clone 
 ```
