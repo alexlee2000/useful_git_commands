@@ -52,6 +52,11 @@
 - Pull in from Remote Repo ```git pull```
 - Push to Remote Repo ```git push```
 
-**10 - Rebasing (Rewriting History)** (...)
+**10 - Rebasing (Rewriting History)**
+
+- Rebase ```git rebase```
+- Change commit ```git commit --ammend -m```
+- Delete a commit ```git rebase -i```
+- Squash a commit ```git merge --squash```
 
 **11 - Pull Requests** (...)
