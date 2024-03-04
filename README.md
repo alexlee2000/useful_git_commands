@@ -52,8 +52,6 @@
 - Pull in from Remote Repo ```git pull```
 - Push to Remote Repo ```git push```
 
-**10 - Rebasing** (...)
+**10 - Rebasing (Rewriting History)** (...)
 
-**11 - Rewriting History** (...)
-
-**12 - Pull Requests** (...)
+**11 - Pull Requests** (...)
