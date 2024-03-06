@@ -58,5 +58,3 @@
 - Change commit ```git commit --ammend -m```
 - Delete a commit ```git rebase -i```
 - Squash a commit ```git merge --squash```
-
-**11 - Pull Requests** (...)
