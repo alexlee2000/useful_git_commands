@@ -1,4 +1,4 @@
-# Useful Git Commands (WORK IN PROGRESS)
+# Useful Git Commands
 
 ## Contents
 
