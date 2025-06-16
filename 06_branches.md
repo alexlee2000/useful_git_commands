@@ -1,8 +1,9 @@
 # 6. Branches
-1. **Create** and **Checkout** a branch
+1. **Create** and **Checkout** a branch (and push to remote repo upstream)
 ```
 git branch featureA
 git checkout featureA
+git push -u origin featureA
 ```
 ![image](https://github.com/alexlee2000/useful_git_commands/assets/43845085/bead4f96-bd41-42c4-8e8f-ad1a1042c5b9)
 
